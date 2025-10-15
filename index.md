@@ -2,7 +2,7 @@ layout: default
 title: Your Name - Academic Portfolio
 ---
 
-![Featured Image](/assets/featured-image.jpg)
+!(/assets/featured-image.jpg)
 
 # Taylor Trujeque
 ## PhD Candidate at the University of Central Florida 
