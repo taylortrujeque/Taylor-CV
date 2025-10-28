@@ -4,10 +4,13 @@ title: Projects
 ---
 # Projects
 
-## Project 1
+## Text and Technology- PhD Dissertation 
 - Project Description
 - Technologies Used
 
-## Project 2
+## Text and Technology - Journal Article
 - Project Description
 - Technologies Used
+
+## Film Studies - Master of Arts Thesis
+- 
