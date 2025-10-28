@@ -17,18 +17,18 @@ p {
 }
 
 a {
-  color: #68d028;
+  color: #d0283c;
 }
 a:hover {
-  color: #b22257;
+  color: #2eb222;
 }
 
 header {
   padding-top: 40px;
   padding-bottom: 40px;
   font-family: 'Architects Daughter', 'Helvetica Neue', Helvetica, Arial, serif;
-  background: #2ecf4c url(../images/header-bg.jpg) 0 0 repeat-x;
-  border-bottom: solid 1px #a1279d;
+  background: #2ecf43 url(../images/header-bg.jpg) 0 0 repeat-x;
+  border-bottom: solid 1px #a1278f;
 }
 
 header h1 {
@@ -452,4 +452,4 @@ footer a:hover {
 @media only screen and (min-width: 480px) and (max-width: 767px) { }
 
 /* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
-@media only screen and (max-wid
+@media only screen and (max-width: 479px) { }
