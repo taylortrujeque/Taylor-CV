@@ -234,7 +234,7 @@ form {
   padding-right: 0.3em;
   margin-left: -2em;
   content: "///";
-  color: #9ddcff;
+  color: #9dffc8;
 }
 
 #main-content h4 {
@@ -250,7 +250,7 @@ h4:before {
   padding-right: 0.3em;
   margin-left: -2.8em;
   content: "////";
-  color: #9ddcff;
+  color: #e59dff;
 }
 
 #main-content h5 {
@@ -278,7 +278,7 @@ h6:before {
   padding-right: 0.3em;
   margin-left: -3.7em;
   content: "//////";
-  color: #9ddcff;
+  color: #ff9dde;
 }
 
 p {
@@ -322,14 +322,14 @@ footer {
   padding-bottom: 30px;
   margin-top: 40px;
   font-size: 13px;
-  color: #aaa;
+  color: #aaaaaa;
 }
 
 footer a {
-  color: #666;
+  color: #666666;
 }
 footer a:hover {
-  color: #444;
+  color: #444444;
 }
 
 /* MISC */
@@ -409,9 +409,9 @@ footer a:hover {
     margin-top: 15px;
     font-size: 13px;
     line-height: 1;
-    color: #2879d0;
+    color: #28d060;
     text-align: center;
-    background-color: #9ddcff;
+    background-color: #ff9def;
     background-image: none;
     border-radius: 5px;
     -moz-border-radius: 5px;
@@ -431,7 +431,7 @@ footer a:hover {
     padding: 20px 0;
     margin-top: 20px;
     background-image: none;
-    border-top: solid 1px #ddd;
+    border-top: solid 1px #dddddd;
   }
   aside#sidebar a.button {
     display: none;
