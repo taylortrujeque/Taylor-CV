@@ -1,5 +1,4 @@
-layout: 
-title: 
+
 ---
 
 ![Featured Image](/assets/featured-image.jpg)
