@@ -12,5 +12,9 @@ Adjunct Professor — Designed and taught an undergraduate course exploring key 
 - Explored how to treat a film as a cultural text, understanding the work as a document with great historical and sociological significance. 
 - Analyzed the origins and development of cinema, major film movements and film theories, and the particular workings of the industry and the field of Film Studies.
 
+# Teaching Philosophy
+
+## 
+
 
 
