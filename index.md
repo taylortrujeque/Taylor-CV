@@ -1,5 +1,5 @@
-layout: default
-title: Your Name - Academic Portfolio
+layout: 
+title: 
 ---
 
 ![Featured Image](/assets/featured-image.jpg)
