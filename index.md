@@ -1,5 +1,8 @@
-
 ---
+layout: default
+title: Home
+---
+
 
 ![Featured Image](/assets/featured-image.jpg)
 
