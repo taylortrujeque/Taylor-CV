@@ -7,27 +7,18 @@
 ## PhD Candidate at the University of Central Florida 
 
 ### About Me
-Dynamic educator with a proven track record at Flagler College.
-Accomplished Master of Arts graduate from University College London
-with specialized knowledge in Film Studies. Experienced in lecturing, film
-genres, theories, content, and form. Skilled in self-directed and support
-research gained through teaching and scholarship. Enthusiastic about
-advancing field knowledge and fostering a safe, engaging learning
-environment.
+I am a dynamic educator with a proven track record of excellence at Flagler College, where I’ve cultivated a passion for teaching and scholarship. I hold a Master of Arts in Film Studies from University College London, where I developed specialized expertise in film genres, theory, content, and form. My academic journey is currently continuing at the University of Central Florida, where I am pursuing a Ph.D. in Texts and Technology.
 
+With extensive experience in lecturing and guiding both self-directed and collaborative research, I am committed to advancing knowledge in my field while fostering inclusive, engaging learning environments. My work bridges critical analysis and creative inquiry, empowering students to explore media through theoretical lens.
 
 ### Research Interests
-- Film Studies 
-- Gender Studies
-- Sound Stuides 
+My research interests center on the intersection of sound and cinema, with a particular focus on how auditory and visual elements converge to shape audience experience. I am interested in exploring the moment when a film score collides with the image on screen—transcending reality and evoking a euphoric frisson that immerses viewers in a heightened emotional state.
 
-### Publications and/or Conferences
+In addition, I explore gender studies in cinema, examining how the evolution of sound in American film has influenced the representation of women on screen. This line of inquiry considers how sonic techniques, from voice and music to ambient sound, have historically shaped, reinforced, or challenged gendered narratives. 
 
-1. Paper Title, Journal, Year
-2. Another Paper Title, Conference, Year
 
 ### Contact
 
 - Email: ta450703@ucf.edu
-- Office: Your office location
+
 
