@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Taylor Trujeque
+title: Home
 ---
 
 
