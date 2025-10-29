@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Projects
+title: Research
 ---
-# Projects
+# Research
 
 ## Text and Technology- PhD Dissertation 
 Exploration of cinema and sound
