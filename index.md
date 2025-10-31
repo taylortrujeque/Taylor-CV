@@ -18,7 +18,7 @@ I recently started teaching at Flagler College as an Adjunct Professor, where I�
 This portfolio serves as a professional platform for exploring my current research, professional experience, and ongoing academia contributions. On this website you’ll find: 
 
 Research – Research and creative work highlighting film and technological scholarship. 
-Teaching – Teaching summary and reflections on my pedagogical insights and philosophies. 
+ Teaching – Teaching summary and reflections on my pedagogical insights and philosophies. 
 
 
 ### Research Interests
