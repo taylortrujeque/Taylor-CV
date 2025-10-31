@@ -43,15 +43,16 @@ Flagler College
 - Enhanced student comprehension by employing diverse teaching methods and incorporating multimedia resources.                             
 
 March 2024 - May 2024             
-**Substitute Teacher**, Education Solutions Servcies
+**Substitute Teacher**, Education Solutions Services
 
 - Enhanced classroom management by implementing positive reinforcement strategies and maintaining clear expectations for behavior.                 
 - Promoted a collaborative learning environment group through projects and peer-to-peer activities, fostering teamwork and communication skills.                                             
 - Developed strong rapport with students through  consistent encouragement and support, fostering a positive learning atmosphere conducive to academic growth.                                                                                                                             
 
 September 2020 - February 2024                      
-**Office Manager**,DAT Lawn Care            
+**Office Manager**, DAT Lawn Care            
 
 - Enhanced customer satisfaction by streamlining support processes and implementing new strategies. 
-- Established workflow processes, monitored daily productivity, and implemented modifications to improve overall performance of personnel.                                  - Implemented new software tools for streamlined project management, increasing efficiency in task completion across teams.                          
+- Established workflow processes, monitored daily productivity, and implemented modifications to improve overall performance of personnel.                      
+- Implemented new software tools for streamlined project management, increasing efficiency in task completion across teams.                          
 - Increased accuracy in financial reporting by implementing robust accounting practices and attention to detail in data entry tasks.           
