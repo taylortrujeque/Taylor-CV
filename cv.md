@@ -11,11 +11,11 @@ Contact: tntrujeque@aol. com
 **Education                                                                                    Expected in 2029                                    
  **Ph.D. in **Text And Technology**                                                      **University of Central Florida**, Orlando, FL      
 
- **Master of Arts** **- Film Studies**             
+**Master of Arts** **- Film Studies**             
 **University College London**, London, England    
  December 2016                                        
   
-   **Bachelor of Arts** **- Film Studies**            
+**Bachelor of Arts** **- Film Studies**            
  **University of Central Florida**, Orlando, Florida  
   **Minor in Humanities and Cultural Studies**        
 
@@ -24,10 +24,9 @@ Microsoft Office
                                                                   
 
 **Work History**                                                                     
- August 2024 - Current                                
-
+ August 2024                               
 **Adjunct Professor-Communications** 
-***Flagler  College***                                           
+Flagler College                                          
 
 - Taught film studies course, providing instruction to up to 21 undergraduate students.               
 - Encouraged class dialogue by building dissussions                                                                                   into lessons, actively soliciting input, and   asking open-ended questions.                     
@@ -35,24 +34,19 @@ Microsoft Office
 - Enhanced student comprehension by employingdiverse teaching methods and incorporating multimedia resources.                             
 
 March 2024 - May 2024             
- **Substitute Teacher *, Education Solutions Servcies
+**Substitute Teacher**, Education Solutions Servcies
+
 - Enhanced classroom management by implementing    
  positive reinforcement strategies and maintaining    clear expectations for behavior.                 
 - Promoted a collaborative learning environment      
 through group projects and peer-to-peer  activities, fostering teamwork and communication skills.                                            
 Developed strong rapport with students through  consistent encouragement and support, fostering a positive learning atmosphere conducive to academic growth.                                                                                                                             
- September 2020 - February 2024                      
+September 2020 - February 2024                      
 **Office Manager** ***, DAT Lawn Care***             
- - Enhanced customer satisfaction by streamlining     
+
+- Enhanced customer satisfaction by streamlining     
 support processes and implementing new strategies. 
- - Established workflow processes, monitored daily productivity, and implemented modifications to improve overall performance of personnel.                                  - Implemented new software tools for streamlined     
-  project management, increasing efficiency in task  
+- Established workflow processes, monitored daily productivity, and implemented modifications to improve overall performance of personnel.                                  - Implemented new software tools for streamlined project management, increasing efficiency in task  
 ompletion across teams.                          
- - Increased accuracy in financial reporting by      
-implementing robust accounting practices and      
-  attention to detail in data entry tasks.           
-+============================================================================================+===+======================================================+===+
-
-.
-
-#HRJ#53a58bf4-3e2a-4060-b4da-91eec7cc4c50#
+- Increased accuracy in financial reporting by      
+implementing robust accounting practices and attention to detail in data entry tasks.           
