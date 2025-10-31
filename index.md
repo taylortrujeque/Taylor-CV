@@ -22,7 +22,7 @@ This portfolio serves as a professional platform for exploring my current resear
 
 
 ### Research Interests
-My research interests center on the intersection of sound and cinema, with a particular focus on how auditory and visual elements converge to shape audience experience. I am interested in exploring the moment when a film score collides with the image on screen— that ranscends reality and evoking a euphoric frisson that immerses viewers in a heightened emotional state.
+My research interests center on the intersection of sound and cinema, with a particular focus on how auditory and visual elements converge to shape audience experience. I am interested in exploring the moment when a film score collides with the image on screen that transcends reality and evoking a euphoric frisson that immerses viewers in a heightened emotional state.
 
 In addition, I explore gender studies in cinema, examining how the evolution of sound in American film has influenced the representation of women on screen. I investigate how sonic techniques, from diegetic and non-diegetic sounds, have historically shaped, reinforced, or challenged gendered narratives.
 
