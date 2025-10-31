@@ -14,10 +14,17 @@ Hello! I’m Taylor Trujeque. I hold a Master of Arts in Film Studies from Unive
 
 I recently started teaching at Flagler College as an Adjunct Professor, where I’ve cultivated a passion for teaching and scholarship. I have experience lecturing and guiding both self-directed and collaborative research. I am committed to advancing knowledge in the fields of cinema studies and technology while fostering inclusive, engaging learning environments. My work bridges critical analysis and creative inquiry, empowering students to explore media through a theoretical lens.
 
-### Research Interests
-My research interests center on the intersection of sound and cinema, with a particular focus on how auditory and visual elements converge to shape audience experience. I am interested in exploring the moment when a film score collides with the image on screen—transcending reality and evoking a euphoric frisson that immerses viewers in a heightened emotional state.
+### About This Site
+This portfolio serves as a professional platform for exploring my current research, professional experience, and ongoing academia contributions. On this website you’ll find: 
 
-In addition, I explore gender studies in cinema, examining how the evolution of sound in American film has influenced the representation of women on screen. This line of inquiry considers how sonic techniques, from voice and music to ambient sound, have historically shaped, reinforced, or challenged gendered narratives. 
+Research – Research and creative work highlighting film and technological scholarship. 
+Teaching – Teaching summary and reflections on my pedagogical insights and philosophies. 
+
+
+### Research Interests
+My research interests center on the intersection of sound and cinema, with a particular focus on how auditory and visual elements converge to shape audience experience. I am interested in exploring the moment when a film score collides with the image on screen— that ranscends reality and evoking a euphoric frisson that immerses viewers in a heightened emotional state.
+
+In addition, I explore gender studies in cinema, examining how the evolution of sound in American film has influenced the representation of women on screen. I investigate how sonic techniques, from diegetic and non-diegetic sounds, have historically shaped, reinforced, or challenged gendered narratives.
 
 
 ### Contact
