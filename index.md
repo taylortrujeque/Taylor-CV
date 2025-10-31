@@ -6,8 +6,8 @@ title: Home
 
 ![Featured Image](/assets/featured-image.jpg)
 
-# Taylor Trujeque
-## PhD Candidate at the University of Central Florida 
+# Welcome!
+## Taylor Trujeque- PhD Candidate at the University of Central Florida 
 
 ### About Me
 I am a dynamic educator with a proven track record of excellence at Flagler College, where I’ve cultivated a passion for teaching and scholarship. I hold a Master of Arts in Film Studies from University College London, where I developed specialized expertise in film genres, theory, content, and form. My academic journey is currently continuing at the University of Central Florida, where I am pursuing a Ph.D. in Texts and Technology.
