@@ -1,33 +1,17 @@
-+--------------------------------------------------------------------------------------------+---+------------------------------------------------------+---+
-| .                                                                                          |   |                                                      |   |
-|                                                                                            |   |                                                      |   |
-| > **Contact**                                                                              |   | **Professional Summary**                             |   |
-| >                                                                                          |   |                                                      |   |
-| >                                                                                          |   | Dynamic educator with a proven track record at       |   |
-|                                                                                            |   | Flagler College. Accomplished Master of Arts         |   |
-| +---+-------------------------------------------------------+------------------------+---+ |   | graduate from University College London with         |   |
-| |   | > ![](media/image1.png){width="0.16713910761154854in" | Tampa, FL 33647        |   | |   | specialized knowledge in Film Studies. Experienced   |   |
-| |   | > height="0.23663604549431322in"}                     |                        |   | |   | in lecturing, film genres, theories, content, and    |   |
-| +===+=======================================================+========================+===+ |   | form. Skilled in self-directed and support research  |   |
-| |   | ![](media/image2.png){width="0.23649825021872267in"   | \(813\) 789-9993       |   | |   | gained through teaching and scholarship.             |   |
-| |   | height="0.18111876640419947in"}                       |                        |   | |   | Enthusiastic about advancing field knowledge and     |   |
-| +---+-------------------------------------------------------+------------------------+---+ |   | fostering a safe, engaging learning environment.     |   |
-| |   | > ![](media/image3.png){width="0.16713910761154854in" | tntrujeque@aol.com     |   | |   |                                                      |   |
-| |   | > height="0.13947944006999125in"}                     |                        |   | |   |   -------------------------------------------------- |   |
-| +---+-------------------------------------------------------+------------------------+---+ |   |                                                      |   |
-|                                                                                            |   |   -------------------------------------------------- |   |
-| >                                                                                          |   |                                                      |   |
-|                                                                                            |   |   -------------------------------------------------- |   |
-|   -----------------------------------                                                      |   |                                                      |   |
-|                                                                                            |   | **Education**                                        |   |
-|   -----------------------------------                                                      |   |                                                      |   |
+---
+layout: default
+title: CV
+
+Dynamic educator with a proven track record at Flagler College. Accomplished Master of Arts graduate from University College London with specialized knowledge in Film Studies. Experienced in lecturing, film genres, theories, content, and 
+form. Skilled in self-directed and support research. Enthusiastic about advancing field knowledge and fostering a safe, engaging learning environment.  
+
+tntrujeque@aol. com                                                    **Education**                                       
+-----------------------------------                                                      |   |                                                      |   |
 |                                                                                            |   | Expected in 2029                                     |   |
-|   -----------------------------------                                                      |   |                                                      |   |
-|                                                                                            |   | **Ph.D.** **Text And Technology**                    |   |
+|    **Ph.D.** **Text And Technology**                    |   |
 | > **Thesis Research**                                                                      |   |                                                      |   |
-|                                                                                            |   | **University of Central Florida**, Orlando, FL       |   |
-| - Completed a 12,000-word thesis titled: "The "Platinum Age" of the Modern American        |   |                                                      |   |
-|   Television Drama: An exploration of the portrayal of masculine vulnerability and         |   | September 2019                                       |   |
+|                                                                                             **University of Central Florida**, Orlando, FL       |   |
+September 2019                                       |   |
 |   feminine oppression.\"                                                                   |   |                                                      |   |
 |                                                                                            |   | **Master of Arts** **- Film Studies**                |   |
 | - Explored two American modern television programs and analyzed their content and form     |   |                                                      |   |
