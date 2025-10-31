@@ -9,10 +9,11 @@ form. Skilled in self-directed and support research. Enthusiastic about advancin
 
 Contact: tntrujeque@aol. com                                                    
 
-**Education**                                                                                 
+**Education**                                                                         
 
 Expected in 2029                                    
-**Ph.D. - Text And Technology**                                                      **University of Central Florida**, Orlando, FL      
+**Ph.D. - Text And Technology**               
+**University of Central Florida**, Orlando, FL      
 
 **Master of Arts** **- Film Studies**             
 **University College London**, London, England    
@@ -42,7 +43,7 @@ Flagler College
 - Enhanced student comprehension by employing diverse teaching methods and incorporating multimedia resources.                             
 
 March 2024 - May 2024             
-**Substitute Teacher**,Education Solutions Servcies
+**Substitute Teacher**, Education Solutions Servcies
 
 - Enhanced classroom management by implementing positive reinforcement strategies and maintaining clear expectations for behavior.                 
 - Promoted a collaborative learning environment group through projects and peer-to-peer activities, fostering teamwork and communication skills.                                             
