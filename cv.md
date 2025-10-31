@@ -9,8 +9,8 @@ form. Skilled in self-directed and support research. Enthusiastic about advancin
 
 Contact: tntrujeque@aol. com                                                    
 
-**Education                                                                                    Expected in 2029                                    
- **Ph.D. in **Text And Technology**                                                      **University of Central Florida**, Orlando, FL      
+**Education**                                                                                    Expected in 2029                                    
+ **Ph.D. in Text And Technology**                                                      **University of Central Florida**, Orlando, FL      
 
 **Master of Arts** **- Film Studies**             
 **University College London**, London, England    
@@ -27,7 +27,8 @@ Contact: tntrujeque@aol. com
 - Advanced Research Techniques
 - Administrative Support
 
-**Work History**                                                                     
+**Work History** 
+
  August 2024                               
 **Adjunct Professor-Communications** 
 Flagler College                                          
