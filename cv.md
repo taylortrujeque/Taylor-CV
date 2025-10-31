@@ -1,44 +1,33 @@
 ---
 layout: default
 title: CV
+---
 
 Dynamic educator with a proven track record at Flagler College. Accomplished Master of Arts graduate from University College London with specialized knowledge in Film Studies. Experienced in lecturing, film genres, theories, content, and 
 form. Skilled in self-directed and support research. Enthusiastic about advancing field knowledge and fostering a safe, engaging learning environment.  
 
-tntrujeque@aol. com                                                    **Education**                                       
------------------------------------                                                      |   |                                                      |   |
-|                                                                                            |   | Expected in 2029                                     |   |
-|    **Ph.D.** **Text And Technology**                    |   |
-| > **Thesis Research**                                                                      |   |                                                      |   |
-|                                                                                             **University of Central Florida**, Orlando, FL       |   |
-September 2019                                       |   |
-|   feminine oppression.\"                                                                   |   |                                                      |   |
-|                                                                                            |   | **Master of Arts** **- Film Studies**                |   |
-| - Explored two American modern television programs and analyzed their content and form     |   |                                                      |   |
-|   that are believed to be revolutionary. Investigated Hulu\'s adaption of *The Handmaid\'s |   | **University College London**, London, England       |   |
-|   Tale* and Showtime\'s *Ray Donovan* as they represented ground-breaking commentaries on  |   |                                                      |   |
-|   gender and class.                                                                        |   | December 2016                                        |   |
-|                                                                                            |   |                                                      |   |
-|   -----------------------------------                                                      |   | **Bachelor of Arts** **- Film Studies**              |   |
-|                                                                                            |   |                                                      |   |
-|   -----------------------------------                                                      |   | **University of Central Florida**, Orlando, Florida  |   |
-|                                                                                            |   |                                                      |   |
-|   -----------------------------------                                                      |   | **Minor in Humanities and Cultural Studies**         |   |
-|                                                                                            |   |                                                      |   |
-| > **Skills**                                                                               |   |   -------------------------------------------------- |   |
-|                                                                                            |   |                                                      |   |
-| - Team Management                                                                          |   |   -------------------------------------------------- |   |
-|                                                                                            |   |                                                      |   |
-| <!-- -->                                                                                   |   |   -------------------------------------------------- |   |
-|                                                                                            |   |                                                      |   |
-| - Microsoft Office                                                                         |   | **Work History**                                     |   |
-|                                                                                            |   |                                                      |   |
-| <!-- -->                                                                                   |   | August 2024 - Current                                |   |
-|                                                                                            |   |                                                      |   |
-| - Flexible and Adaptable                                                                   |   | **Adjunct Professor-Communications** ***, Flagler    |   |
-|                                                                                            |   | College***                                           |   |
-| <!-- -->                                                                                   |   |                                                      |   |
-|                                                                                            |   | - Taught film studies course, providing instruction  |   |
+Contact: tntrujeque@aol. com                                                    **Education                                                                                      Expected in 2029                                    
+ **Ph.D.** **Text And Technology**                                                      **University of Central Florida**, Orlando, FL      
+
+ **Master of Arts** **- Film Studies**             
+**University College London**, London, England    
+ December 2016                                        
+  
+   **Bachelor of Arts** **- Film Studies**            
+ **University of Central Florida**, Orlando, Florida  
+  **Minor in Humanities and Cultural Studies**        
+
+**Skills**                                                                          
+Microsoft Office   
+                                                                  
+
+**Work History**                                                                     
+ August 2024 - Current                                
+
+**Adjunct Professor-Communications** 
+***Flagler  College***                                           
+
+- Taught film studies course, providing instruction  |   |
 | - Advanced Research Techniques                                                             |   |   to up to 21 undergraduate students.                |   |
 |                                                                                            |   |                                                      |   |
 | <!-- -->                                                                                   |   | - Encouraged class dialogue by building discussions  |   |
