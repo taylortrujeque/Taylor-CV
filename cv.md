@@ -10,7 +10,7 @@ form. Skilled in self-directed and support research. Enthusiastic about advancin
 Contact: ta450703@ucf.edu
                                                   
 
-<u>**Education**</u>                                                                        
+**Education**</u>                                                                        
 
 Expected in 2029                                    
 **Ph.D. - Text And Technology**               
@@ -22,7 +22,6 @@ September 2019
   
 **Bachelor of Arts** **- Film Studies**  
 **Minor in Humanities and Cultural Studies**
-
 **University of Central Florida**, Orlando, Florida
 December 2016    
 
