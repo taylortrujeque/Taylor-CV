@@ -22,7 +22,6 @@ September 2019
   
 **Bachelor of Arts** **- Film Studies**            
 **University of Central Florida**, Orlando, Florida
-
 **Minor in Humanities and Cultural Studies**    
 December 2016    
 
@@ -32,7 +31,7 @@ December 2016
 - Flexible and Adaptable
 - Advanced Research Techniques
 - Administrative Support
-
+_____________________________________________________________________________________________
 **Work History** 
 
  August 2024                               
