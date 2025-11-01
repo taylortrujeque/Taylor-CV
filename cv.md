@@ -10,7 +10,7 @@ form. Skilled in self-directed and support research. Enthusiastic about advancin
 Contact: ta450703@ucf.edu
                                                   
 
-**Education**                                                                         
+<u>**Education**</u>                                                                        
 
 Expected in 2029                                    
 **Ph.D. - Text And Technology**               
