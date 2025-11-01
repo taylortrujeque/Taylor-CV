@@ -17,7 +17,7 @@ title: Research
 - Employ a multi-method research approach to comprehensively examine the relationship between sound and feminine representation in American cinema. 
 
 ## Film Studies - M.A. Thesis
-**Television Stuides and Gender**
+**Television Studies and Gender**
 - Investigated Hulu’s adaptation of The Handmaid’s Tale and Showtime’s Ray Donovan as they represented groundbreaking commentaries on gender and class.
 - Employed formal film analysis to convey a distinct mise-en-scène, utilizing specialized camera techniques, deliberate lighting, and curated subtleties in character costuming. 
 -  Concluded that the innovative content and form dismantled gender stereotypes when confronting and addressing the complexities of sexual trauma. 
