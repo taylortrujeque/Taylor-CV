@@ -28,14 +28,14 @@ September 2019
 **University of Central Florida**, Orlando, Florida                                  
 December 2016    
 
-**Skills**                                                                          
+### **Skills**                                                                          
 - Team Management
 - Microsoft Office
 - Flexible and Adaptable
 - Advanced Research Techniques
 - Administrative Support
 
-**Work History** 
+### **Work History** 
 
  August 2024                               
 **Adjunct Professor-Communications**,
