@@ -25,7 +25,7 @@ September 2019
   
 **Bachelor of Arts** **- Film Studies**  
 **Minor in Humanities and Cultural Studies**                                     
-**University of Central Florida**, Orlando, Florida
+**University of Central Florida**, Orlando, Florida                                  
 December 2016    
 
 **Skills**                                                                          
