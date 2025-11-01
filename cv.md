@@ -8,21 +8,22 @@ Dynamic educator with a proven track record at Flagler College. Accomplished Mas
 form. Skilled in self-directed and support research. Enthusiastic about advancing field knowledge and fostering a safe, engaging learning environment.  
 
 Contact: ta450703@ucf.edu
-          813-789-9993                                                  
-
+813-789-9993                                                  
+---------------------------------------------------------------------------------------------
 **Education**                                                                         
 
 Expected in 2029                                    
 **Ph.D. - Text And Technology**               
-**University of Central Florida**, Orlando, FL      
+**University of Central Florida**, Orlando, Florida   
 
 **Master of Arts** **- Film Studies**             
 **University College London**, London, England    
 September 2019                               
   
-**Bachelor of Arts** **- Film Studies**            
+**Bachelor of Arts** **- Film Studies**  
+- **Minor in Humanities and Cultural Studies**      
 **University of Central Florida**, Orlando, Florida
-**Minor in Humanities and Cultural Studies**    
+   
 December 2016    
 
 **Skills**                                                                          
@@ -31,7 +32,7 @@ December 2016
 - Flexible and Adaptable
 - Advanced Research Techniques
 - Administrative Support
-_____________________________________________________________________________________________
+
 **Work History** 
 
  August 2024                               
