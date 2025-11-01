@@ -13,7 +13,7 @@ knowledge and fostering a safe, engaging learning environment.
 Contact: ta450703@ucf.edu
                                                   
 
-**Education**                                                                        
+### **Education**                                                                        
 
 Expected in 2029                                    
 **Ph.D. - Text And Technology**               
